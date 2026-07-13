@@ -1,3 +1,2 @@
 hello world
-xin chào nhá
 đây là dòng không lỗi
